@@ -34,7 +34,8 @@ Novice front-end developer seeking to leverage skills in creating awesome apps s
 
 ## Code samples
 **Javascript**
-```
+
+
 function Slider() {
     .....
     
@@ -47,7 +48,8 @@ function Slider() {
             this.showPrevBtn.disabled = true;
         }
     };
-    ```
+
+
 
 ## Work experience
 *February, 2017 - Present* - Freelance **Project management and QA testing**
