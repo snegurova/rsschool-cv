@@ -1,0 +1,59 @@
+@font-face {
+  font-family: UmbaSans;
+  src: url(/fonts/UmbaSans-ThinDemo.otf);
+ }
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #464646;
+  background: #e6e7e9;
+}
+
+h1,
+h2 {
+  text-transform: uppercase;
+  color: #fff;
+  font-family: Raleway, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 200;
+}
+
+.left-col h2 {
+  max-width: 70%;
+  background-color:  #464646;
+  margin: 0 auto;
+}
+
+.container {
+  width: 1024px;
+  background-color: #f2f2f2;
+  margin: 50px auto;
+  box-shadow: 20px 20px 40px 0px rgba(0,0,0,.6);
+  padding: 30px;
+}
+
+.left-col {
+  width: 30%;
+  background-color: #e3e9df;  
+  padding-top: 45px;
+}
+
+
+.avatar {
+  width: 70%;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.contacts {
+  margin-top: 45px;
+}
+
+.right-col {
+  width: 61%;
+}
