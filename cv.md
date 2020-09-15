@@ -12,25 +12,17 @@
 Novice front-end developer seeking to leverage skills in creating awesome apps such as CRM or ERP systems.
 
 ## Skills
-◼◼◼◼◻ HTML/CSS
 
-◼◼◻◻◻ JavaScript
+| Languages & Frameworks | Tools |
+| ------ | ------ |
+| ◼◼◼◼◻ HTML/CSS | ◼◼◻◻◻ Git |
+| ◼◼◻◻◻ JavaScript | ◼◼◼◻◻ Vsiual Studio Code |
+| ◼◻◻◻◻ SCSS, SASS, LESS | ◼◼◼◼◻ Photoshop, Figma, Avocode, Zeplin |
+| ◼◻◻◻◻ React | ◼◼◼◼◼ Asana, Teamwork, ClickUp |
+| ◼◻◻◻◻ PHP | |
+| ◼◼◻◻◻ Wordpress, MODx, Shopify |  |
 
-◼◻◻◻◻ SCSS, SASS, LESS
 
-◼◼◻◻◻ Git
-
-◼◻◻◻◻ React
-
-◼◻◻◻◻ PHP
-
-◼◼◼◻◻ Vsiual Studio Code
-
-◼◼◼◼◻ Photoshop, Figma, Avocode, Zeplin
-
-◼◼◼◼◼ Asana, Teamwork, ClickUp
-
-◼◼◻◻◻ Wordpress, MODx, Shopify
 
 ## Code samples
 **Javascript**
