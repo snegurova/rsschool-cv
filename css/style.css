@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #464646;
+  background: #e6e7e9;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+
+
+h1,
+h2,
+.right-col header p {
+  text-transform: uppercase;
+  color: #fff;
+  font-family: Raleway, sans-serif;
+  line-height: 1.7;
+  text-align: center;
+  letter-spacing: 4px;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-size: 15px;
+  ;
+}
+
+h2 {
+  max-width: 100%;
+  background-color: #464646;
+  margin: 0 auto 30px;
+}
+
+.container {
+  width: 1024px;
+  background-color: #f2f2f2;
+  margin: 50px auto;
+  box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, .1);
+  padding: 30px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.left-col {
+  width: 20%;
+  background-color: #e3e9df;
+  padding: 45px;
+}
+
+.left-col p {
+  margin: 8px 0;
+}
+
+.avatar {
+  width: 100%;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.left-col section {
+  margin-top: 45px;
+}
+
+.contacts li {
+  margin-bottom: 8px;
+}
+
+a {
+  text-decoration: none;
+  color: #464646;
+
+}
+
+.contacts a:hover {
+  text-decoration: underline;
+}
+
+.contacts i {
+  width: 1rem;
+  text-align: center;
+  margin-right: .4rem;
+  font-size: 1rem;
+}
+
+.education ul li,
+.contacts li,
+.skills li,
+.interests li,
+.work {
+  list-style: none;
+  margin-left: -35px;
+}
+
+.education ul li:not(:first-child) {
+  margin-top: 30px;
+}
+
+.education h3 {
+  margin-bottom: 0px;
+}
+
+.skills li {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.skills li:last-child {
+  margin-bottom: 0;
+}
+
+.skills span {
+  margin-right: 10px;
+}
+
+.interests i {
+  width: 18px;
+  text-align: center;
+  margin-right: 3px;
+  font-size: 18px;
+  display: inline-block;
+}
+
+.interests ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.right-col {
+  width: 66%;
+  padding-left: 55px;
+  font-size: 15px;
+}
+
+.right-col header {
+  height: 105;
+  background-color: #464646;
+  padding: 70px;
+}
+
+header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.right-col section {
+  margin-top: 45px;
+}
+.work p {
+  margin-bottom: 8px;
+}
