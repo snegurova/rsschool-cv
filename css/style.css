@@ -9,13 +9,20 @@ body {
 
 
 
-h1, h2 {
+h1,
+h2,
+.right-col header p {
   text-transform: uppercase;
   color: #fff;
   font-family: Raleway, sans-serif;
   line-height: 1.7;
   text-align: center;
   letter-spacing: 4px;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 0;
 }
 
 h2 {
@@ -29,7 +36,7 @@ h3 {
   ;
 }
 
-.left-col h2 {
+h2 {
   max-width: 100%;
   background-color: #464646;
   margin: 0 auto 30px;
@@ -41,6 +48,7 @@ h3 {
   margin: 50px auto;
   box-shadow: 5px 5px 20px 0px rgba(0, 0, 0, .1);
   padding: 30px;
+  display: flex;
 }
 
 .left-col {
@@ -68,7 +76,7 @@ h3 {
   margin-bottom: 8px;
 }
 
-.contacts a {
+a {
   text-decoration: none;
   color: #464646;
 
@@ -88,7 +96,8 @@ h3 {
 .education ul li,
 .contacts li,
 .skills li,
-.interests li {
+.interests li,
+.work {
   list-style: none;
   margin-left: -35px;
 }
@@ -128,5 +137,25 @@ h3 {
 }
 
 .right-col {
-  width: 61%;
+  width: 66%;
+  padding-left: 55px;
+  font-size: 15px;
+}
+
+.right-col header {
+  height: 105;
+  background-color: #464646;
+  padding: 70px;
+}
+
+header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.right-col section {
+  margin-top: 45px;
+}
+.work p {
+  margin-bottom: 8px;
 }
