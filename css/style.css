@@ -160,3 +160,7 @@ header img {
 .work p {
   margin-bottom: 8px;
 }
+
+.projects li {
+  display: block;
+}
