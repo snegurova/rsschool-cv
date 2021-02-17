@@ -83,7 +83,7 @@ a {
 
 }
 
-.contacts a:hover {
+.contacts a:hover, .projects a:hover {
   text-decoration: underline;
 }
 
@@ -163,4 +163,8 @@ header img {
 
 .projects ul {
   display: block;
+}
+
+.projects li {
+    margin-bottom: 9px;
 }
